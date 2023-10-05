@@ -1,0 +1,17 @@
+body {
+  font-family:monospace;
+    color: #0d1f1f;
+}
+
+h1,h2 {
+  font-size: 2em;
+  margin-top: 0;
+}
+
+img {
+  width: 50%;
+}
+
+.video {
+  margin-top: 2em;
+}
